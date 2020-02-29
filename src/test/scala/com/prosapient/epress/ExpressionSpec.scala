@@ -1,4 +1,4 @@
-package com.prosapient.inpress
+package com.prosapient.epress
 
 import org.scalatest._
 

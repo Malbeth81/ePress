@@ -1,4 +1,4 @@
-package com.prosapient.inpress
+package com.prosapient.epress
 
 /**
   * Created by Marc-André Lamothe on 28/11/16.

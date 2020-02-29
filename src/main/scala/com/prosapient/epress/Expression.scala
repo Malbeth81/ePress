@@ -1,4 +1,4 @@
-package com.prosapient.inpress
+package com.prosapient.epress
 
 import java.util.regex.{Matcher, Pattern}
 

@@ -2,7 +2,9 @@
 
 ePress is an efficient and fully features templating engine that can be used in a variety of context.
  
-Simply write your template and embed logic into it using bash-like `${}` tags.
+Simply write your template and embed logic into it using bash-like `${}` tags and load it using the `TemplateFactory` or
+`TemplateManager`, then call either the `toArray()` or `toString()` function of the template, passing in the values for the 
+dynamic variables (not declared within the template), to render the template and obtain the desired document. 
 
 Features:
 * Supports both numeric & string types (with automatic type casting).
